@@ -1,0 +1,5 @@
+C:\Users\Tommy\Desktop\CodingChallenges\NameSearch\NameSearch.exe
+C:\Users\Tommy\Desktop\CodingChallenges\NameSearch\NameSearch.dll
+C:\Users\Tommy\Desktop\CodingChallenges\NameSearch\NameSearch.deps.json
+C:\Users\Tommy\Desktop\CodingChallenges\NameSearch\NameSearch.runtimeconfig.json
+C:\Users\Tommy\Desktop\CodingChallenges\NameSearch\NameSearch.pdb
